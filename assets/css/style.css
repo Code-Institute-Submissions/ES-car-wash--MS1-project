@@ -1,11 +1,34 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:100,200,300,400,500,600,700|Oswald:100,200,300,400,500,600,700);
+@import url('https://fonts.googleapis.com/css2?family=Roboto:100,200,300,400,500,600,700|Oswald:100,200,300,400,500,600,700');
 
-* {
-    padding: 0;
-    margin: 0;
-    border: 0;
-}
+/*................................................ header*/
+
 header {
-    font-family: Roboto, sans-serif;
-    padding-bottom: 15px: important;
+    background-color: #0e0101;
+    margin: 0;
+    padding: 0;
 }
+header a{
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    color: #fafafa;
+}
+.navbar-brand-name {
+    text-transform: uppercase;
+    font-size: 20px;
+}
+/*................................................ footer*/
+
+.footer-heading {
+    text-transform: uppercase;
+    color: #fafafa;
+    margin: 0;
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+}
+footer {
+    background-color: #0e0101;
+    color: #fafafa;
+    min-height: 120px;
+    margin: 0;
+}
+
