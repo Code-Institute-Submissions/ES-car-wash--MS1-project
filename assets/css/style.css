@@ -168,3 +168,30 @@ footer {
 .email:hover {
     color: #ca1729;
 }
+
+/*................................................ About-us-text*/
+.about-text{
+    font-family: Exo, sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+   color:  #10f323;
+   padding-top: 20px;
+
+}
+.about-jumbotron{
+    background: url(../image/hand-wash.jpg) no-repeat;
+    height: 100vh;
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+h1{
+    color: #ca1729;
+    font-family: Roboto, sans-serif;
+    text-align: center;
+}
