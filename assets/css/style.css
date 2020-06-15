@@ -242,3 +242,42 @@ h1{
     padding-bottom: 16px;
 }
 
+/*................................................ Services*/
+#services{
+padding-top: 30px;
+background-color:  #fafafa;
+}
+.service-body-card{
+    height: 100%;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: black;
+}
+.card-title{
+    font-family: Roboto, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: #fafafa;
+    text-transform: uppercase;
+    padding-top: 12px;
+}
+.card-text{
+    font-family: Exo, sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    color:  #fafafa;
+    font-style: italic;
+    padding-top: 10px;   
+}
+.service-body-card-item{
+     font-family: Exo, sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    color:  #fafafa;
+}
+.price{
+    font-family: Exo, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color:  #fafafa;
+}
