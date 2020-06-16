@@ -172,13 +172,11 @@ footer {
 /*................................................ About-us-text*/
 .about-text{
     font-family: Exo, sans-serif;
-    font-size: 1rem;
+    font-size: 1.5rem;
     text-align: center;
-   color:  #FFEB3B;
-   padding-top: 0px;
-   font-weight: 300;
-   margin-bottom: 14rem;
-
+    color: #f8f9fa;;
+    padding-top: 40px;
+    font-weight: 300;
 }
 .about-jumbotron{
     background: url(../image/about-us.jpg) no-repeat;
@@ -197,6 +195,14 @@ h1{
     font-weight: 300;
     color:#ffc107;
     margin-bottom:10px; 
+}
+.about-us-hr{
+ border: 0px;
+  height: 10px;
+  width: 90px;
+  background-color: #ffc107;
+  margin-bottom: 50px; 
+  margin-top: 2rem;  
 }
  /*#overlay {
    position: absolute;
@@ -226,7 +232,7 @@ h1{
   border: 0px;
   height: 5px;
   width: 75px;
-  background-color: #1748e7; 
+  background-color: #ffc107; 
   margin-bottom: 50px;
 }
 .team-memeber-name{
@@ -303,4 +309,38 @@ background-color:  #fafafa;
 }
 .Photo-gallery-carousel{
     background-color: black;
+}
+
+/*................................................ Photo-gallery*/
+
+.testimonial-header{
+    font-family: Roboto, sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+    text-transform: uppercase;
+    padding-top: 12px;
+    margin-bottom: 1rem;
+}
+.testimonial-hr{
+ border: 0px;
+  height: 4px;
+  width: 75px;
+  background-color: black; 
+  margin-bottom: 50px;   
+}
+blockquote{
+    font-family: Exo, sans-serif;
+    color: black;
+
+}
+.blockquote-text{
+    font-size: 15px;
+    font-weight: 300;
+    padding-top: 20px;
+}
+p .small-text{
+    font-style: italic;
+    font-weight: 500;
+    margin-top: 2px;
 }
