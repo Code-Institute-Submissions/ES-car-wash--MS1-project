@@ -181,7 +181,7 @@ footer {
 
 }
 .about-jumbotron{
-    background: url(../image/Nice-audi.jpg) no-repeat;
+    background: url(../image/car-wash-guy-2.jpg) no-repeat;
     height: 100vh;
      -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -280,4 +280,28 @@ background-color:  #fafafa;
     font-size: 18px;
     font-weight: 600;
     color:  #fafafa;
+}
+
+/*................................................ Photo-gallery*/
+.photo-gallery-header{
+    font-family: Roboto, sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+    text-transform: uppercase;
+    padding-top: 12px;
+    padding-bottom: 1px;    
+}
+.photo-gallery-hr{
+  border: 0px;
+  height: 4px;
+  width: 75px;
+  background-color: black; 
+  margin-bottom: 50px;  
+}
+.carousel-item{
+    padding-bottom: 10px;
+}
+.Photo-gallery-carousel{
+    background-color: black;
 }
