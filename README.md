@@ -11,3 +11,37 @@ I identified two(but are not limited to) users of this website:
 * As an existing customer I should be able to book an appointment online.
 
 ## Wireframes
+## features
+* **Navigation Bar** - This allows users to easily navigate through the  site, it is easy to use and it is consistent throughout the site.
+* **Book Appointment form** - This allows users to book appointment online for the type of service they want.
+* **Footer Link** - This allows users to link with the the company's social media pages, Opening hours and contact details. It is also consistent throughout the site.
+* **About us page** - This contain information about the company and team members.
+* **Card** - This contain the type of services carried out and the prices for each services.
+* **Testimonial** - This contain information of what people are saying about the company.
+* **Carousel** - This allows the user to see images of previous job done.
+## future features
+* Embed a google map.
+* Add a contact us form.
+
+## Technology used
+[HTML](https://https://en.wikipedia.org/wiki/HTML5) - HTML5 provided the structure and content of my site.
+
+[CSS](https://https://en.wikipedia.org/wiki/Cascading-style-sheet) - CSS provided the styling.
+
+[Bootstrap](https://https://getboostap.com) - Bootstrap framework was used for the layout and responsive design of my pages. It was also used for the images, cards and carousel.
+
+[Google fonts](https://fonts.google.com) - I used Roboto for all the headings and Exo for the paragraph text.
+
+[Font awesome](https://fontawesome.com) - I used icons from font awesome to style some element on my footer.
+
+[Gitpod](https://gitpod.io) - This is the text editor I used.
+
+[Git](https://git-scm.com) - This was used as a version control to store my work whenever I make any relevant changes.
+
+[Github](https://github.com) - This is where my repository is stored externally and also used to deploy my website.
+
+[Javascript/jQuery](https://jquery.com/) - This was imported from bootstrap to create a responsive collapsible Nav bar on smaller screen.
+
+
+
+
