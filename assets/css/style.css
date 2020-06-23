@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:100,200,300,400,500,600,700|Oswald:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
 /*................................................ header*/
 
@@ -60,7 +60,7 @@ hr {
 .hero{
     height: 100vh;
     background: url(../image/home-1.png) no-repeat;
-     -webkit-background-size: cover;
+    -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;

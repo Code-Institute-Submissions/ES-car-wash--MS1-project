@@ -66,7 +66,6 @@ My site is hosted on github, and it can be accessed from the link: https://githu
 * The colors for the pages were gotten from  http://colormind.io/
 
 ### **Media**
-All the images on this site were gotten from the following stories
 * Home background image:(https://www.recruiter.co.uk/sites/default/files/media/image/2017/web_hand-car-wash_istock-174964190.png)
 * About us background image: https://www.inside.unsw.edu.au/sites/default/files/article/carwash750x400.png)
 * https://www.pexels.com/search/car%20wash/ 
