@@ -56,6 +56,13 @@ I identified two(but are not limited to) users of this website:
 
 
 ## **Testing**
+During the course of my project, my website was tested using google developer tools by checking for responsiveness to make sure it works well on mobile device and other devices as well. During this process a lot of changes were made along the way. My website was also tested across different browsers such as google chrome, safari, internet explorer, mozilla firefox and other devices too to check for responsiveness.
+I also shared the published link on github pages with friends and family so they can also help me check it. I checked for errors in my HTML and CSS by using the [W3C validator](https://validator.w3.org/) and no errors was found.
+## **Bugs**
+* The fontawesome link on CSS shows error when i check it with dev tools.
+* The second image on my carouselon the gallery section pushes the footer down whever it scrolls.
+
+Unfortunately these bugs has not been fixed.
 ## **Deployment**
 My site is hosted on github, and it can be accessed from the link: https://github.com/source-code88/ES-car-wash--MS1-project.git
 
